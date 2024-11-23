@@ -140,6 +140,8 @@
 /* Begin XCBuildConfiguration section */
 		F33733CF2CEF5E9A00E1247A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = F33733BD2CEF5E9900E1247A /* MovieApp */;
+			baseConfigurationReferenceRelativePath = Configs/EnvConfigs.xcconfig;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -166,6 +168,8 @@
 		};
 		F33733D02CEF5E9A00E1247A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = F33733BD2CEF5E9900E1247A /* MovieApp */;
+			baseConfigurationReferenceRelativePath = Configs/EnvConfigs.xcconfig;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -192,6 +196,8 @@
 		};
 		F33733D12CEF5E9A00E1247A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = F33733BD2CEF5E9900E1247A /* MovieApp */;
+			baseConfigurationReferenceRelativePath = Configs/EnvConfigs.xcconfig;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
@@ -255,6 +261,8 @@
 		};
 		F33733D22CEF5E9A00E1247A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = F33733BD2CEF5E9900E1247A /* MovieApp */;
+			baseConfigurationReferenceRelativePath = Configs/EnvConfigs.xcconfig;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
