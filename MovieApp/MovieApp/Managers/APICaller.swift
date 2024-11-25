@@ -36,7 +36,7 @@ class APICaller {
         task.resume()
     }
     
-    func getTrendingTvs(completion: @escaping (Result<[Title], Error>) -> Void) {
+    func getTrendingTv(completion: @escaping (Result<[Title], Error>) -> Void) {
         guard let url = URL(string: "\(Constants.baseURL)/3/trending/tv/day?api_key=\(Constants.API_KEY)") else { return }
         
         let task = URLSession.shared.dataTask(with: URLRequest(url: url)) { data, _, error in
