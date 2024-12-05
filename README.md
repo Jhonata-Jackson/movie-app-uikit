@@ -64,6 +64,9 @@ This project was developed with the following technologies:
 
   # Open the project in Xcode:
   $ open SwiftQuiz.xcodeproj
+
+  # Add your API_KEY(TMDB) and YOUTUBE_API_KEY:
+  $ MovieApp/Configs/EnvConfigs.xcconfig
 ```
 
 Made by Jhonata Jackson 👋🏻 [Get in touch!](https://www.linkedin.com/in/jhonata-jackson-555929121/)
